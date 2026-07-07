@@ -16,6 +16,7 @@ Static HTML/CSS portfolio website deployed to AWS using S3 and CloudFront, provi
 - terraform init
 - terraform plan
 - terraform apply
+- mcp
 
 ## Conventions
 
