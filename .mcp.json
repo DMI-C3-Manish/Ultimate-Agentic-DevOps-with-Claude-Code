@@ -3,12 +3,8 @@
     "github": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-github"],
-<<<<<<< HEAD
       "env": {
       }
-=======
-      "env": {}
->>>>>>> b0c3a8c (remove PAT from file)
     }
   }
 }
